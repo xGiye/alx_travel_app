@@ -2,3 +2,21 @@ env/
 __pycache__/
 .env
 *.sqlite3
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.env
+
+# Django
+*.log
+*.pot
+*.pyc
+media/
+staticfiles/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
